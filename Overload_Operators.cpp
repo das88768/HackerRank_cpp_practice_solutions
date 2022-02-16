@@ -1,7 +1,5 @@
 // Problem Name -- Overload Operators.
 
-//Operator Overloading
-
 #include<iostream>
 
 using namespace std;
